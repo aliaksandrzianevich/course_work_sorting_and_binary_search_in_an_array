@@ -70,7 +70,7 @@ This project is licensed under the GNU General Public License v3.0 - see the [LI
 
 ## The authors
 
-* **Aleksandr Zenevich** - *all work* - [snglrtycrvtureofspce](https://github.com/snglrtycrvtureofspce)
+* **Aliaksandr Zianevich** - *all work* - [aliaksandrzianevich](https://github.com/aliaksandrzianevich)
 # Курсовая работа по объектно-ориентированному программированию, на языке программирования C++ с использованием графического интерфейса Windows Forms.
 Тема курсовой работы - "Программа для сортировки и бинарного поиска в массиве"
 
@@ -142,4 +142,4 @@ This project is licensed under the GNU General Public License v3.0 - see the [LI
 
 ## Авторы
 
-* **Aleksandr Zenevich** - *вся работа* - [snglrtycrvtureofspce](https://github.com/snglrtycrvtureofspce)
+* **Aliaksandr Zianevich** - *вся работа* - [aliaksandrzianevich](https://github.com/aliaksandrzianevich)
